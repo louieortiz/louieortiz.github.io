@@ -12,18 +12,18 @@ title: Louie Ortiz
 description: Undergraduate Student at UC Berkeley
 
 
-set external to true if linking outside your website
-for internal, make sure to include preceding slash
-nav-links:
-  - name: Home
-    url: /
-    external: false
-  - name: Projects
-    url: /blog
-    external: false
-  - name: Contact
-    url: https://duckduckgo.com
-    external: true
+# set external to true if linking outside your website
+# for internal, make sure to include preceding slash
+# nav-links:
+#   - name: Home
+#     url: /
+#     external: false
+#   - name: Projects
+#     url: /blog
+#     external: false
+#   - name: Contact
+#     url: https://duckduckgo.com
+#     external: true
 
 # for the homepage image + big text next to it
 greeting_image: /assets/photo.jpg
