@@ -8,7 +8,7 @@
 url: https://louieortiz.github.io/
 
 # for header and meta tags
-title: ૮ • ﻌ - ა
+title: ૮ ˶ᵔ ᵕ ᵔ˶ ა
 description: Undergraduate Student at UC Berkeley
 
 
@@ -26,7 +26,7 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: /assets/photo.jpg
 # 100-200 characters recommended
-greeting_text: Welcome! Im Louie, an undergraduate studying the mind and machine at UC Berkeley.
+greeting_text: welcome! im Louie, an undergraduate studying the mind and machine at UC Berkeley.
 
 # show blog post excerpts on blog page
 show_excerpts: false
