@@ -25,9 +25,9 @@ description: Undergraduate Student at UC Berkeley
 #     external: true
 
 # for the homepage image + big text next to it
-greeting_image: /assets/me.jpg
+greeting_image: /assets/photo.jpg
 # 100-200 characters recommended
-greeting_text: Welcome! I`m Louie, an undergraduate at UC Berkeley studying Data Science and Philosophy.
+greeting_text: Welcome! I%'m' Louie, an undergraduate at UC Berkeley studying Data Science and Philosophy.
 
 # show blog post excerpts on blog page
 show_excerpts: false
