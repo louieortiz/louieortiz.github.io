@@ -7,6 +7,10 @@ $heading-font-stack: system-ui, Helvetica, Arial, sans-serif; // use this to set
 $code-font-stack: Inconsolata, monospace; // fonts for inline code and code blocks
 $container-max-width: 700px;
 
+* {
+    box-sizing: border-box;
+}
+
 // reset
 * {
   margin: revert;
