@@ -1,8 +1,12 @@
 ---
 ---
-Data scientist, curriculum developer, and researcher. Experienced in data analysis, instructional design, and statistical modeling. Passionate about technology ethics, educational pedagogy, and understanding how innovation can foster the growth of underserved communities. 
+Data scientist, curriculum developer, and researcher. 
 
-I am seeking full-time or entry-level opportunities that can bolster these intersecting curiosities. Feel free reach me via [email](mailto:louieortiz@berkeley.edu) :-)
+Experienced in data analysis, instructional design, and statistical modeling. 
+
+Passionate about technology ethics, educational pedagogy, and understanding how innovation can foster the growth of underserved communities. 
+
+I am seeking full-time opportunities in industry that can bolster these intersecting curiosities. Feel free to reach me via [email](mailto:louieortiz@berkeley.edu) :-)
 
 ---
 ## about me 👨🏽‍💻
@@ -15,20 +19,14 @@ It wasn’t until studying Data Science at UC Berkeley that I was able to articu
 
 ## currently 💭
 
-I have fortified my passions to diversify UC Berkeley’s Data Science community with a human-centered approach. I serve as a curriculum developer through the Human Contexts and Ethics department, where I work with data science course staff to integrate educational material focused on ethics in a “datafied world.” I recently developed questions for a class project on the socio-political impacts of datasets on air quality, COVID-19 vaccination rates, and traffic flow. I also recently joined the Anti-Racism Student Committee in the College of Engineering to survey student concerns about the computer science department at Cal.
+I have fortified my passions in UC Berkeley’s Data Science community with a human-centered approach. I serve as a curriculum developer through the [Human Contexts and Ethics](https://data.berkeley.edu/hce) department, where I work with data science course staff to integrate educational material focused on ethics in a “datafied world.” I am also on the Undegraduate Advisory Board at the [D-Lab](https://dlab.berkeley.edu/), funded by the [NSF IUSE grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1915714&HistoricalAwards=false), actively connecting with campus organizations to provide knowledge of Data Science related resources. Recently, I joined the [Anti-Racism Student Committee](https://eecs.berkeley.edu/resources/students/bpe) in the College of Engineering to survey student concerns about the computer science department at Cal, in efforts to foster a more welcoming and equitable academic climate. In a non-technical capacity, I volunteer as an advising fellow through [Matriculate](https://www.matriculate.org/apply), a non-profit supporting high school seniors through their college application process.
 
 ---
 
 ## technical work 📊
 
+My interdisciplinary background in Data Science has provided me with foundations in several cognate domains. I have taken coursework in computer science, statistics, and mathematics, complemented with the humanistic fields of philosophy, sociology, and psychology. I have excelled in technical projects in machine learning, data engineering, and statistical modeling, which can be viewed in my [project portfolio](https://github.com/louieortiz/projects).
 
 ---
-
-## writing 📝 
-
-
----
-
-icon links
 
 
