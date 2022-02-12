@@ -17,3 +17,18 @@ It wasn’t until studying Data Science at UC Berkeley that I was able to articu
 
 I have fortified my passions to diversify UC Berkeley’s Data Science community with a human-centered approach. I serve as a curriculum developer through the Human Contexts and Ethics department, where I work with data science course staff to integrate educational material focused on ethics in a “datafied world.” I recently developed questions for a class project on the socio-political impacts of datasets on air quality, COVID-19 vaccination rates, and traffic flow. I also recently joined the Anti-Racism Student Committee in the College of Engineering to survey student concerns about the computer science department at Cal.
 
+---
+
+## technical work 📊
+
+
+---
+
+## writing 📝 
+
+
+---
+
+icon links
+
+
