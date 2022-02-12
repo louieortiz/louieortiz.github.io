@@ -1,9 +1,9 @@
 ---
 ---
-Data scientist, curriculum developer, and researcher. 
-Experienced in data analysis, instructional design, and statistical modeling. 
-Passionate about technology ethics, educational pedagogy, and understanding how innovation can foster the growth of underserved communities. 
-I am seeking full-time opportunities in industry that can bolster these intersecting curiosities. Feel free to reach me via [email](mailto:louieortiz@berkeley.edu) :-)
+Data scientist, curriculum developer, and researcher.
+Experienced in data analysis, instructional design, and statistical modeling.
+Passionate about technology ethics, educational pedagogy, and understanding how innovation can foster the growth of underserved communities.
+I am seeking full-time opportunities in industry that can bolster these intersecting curiosities.
 
 ---
 ## about me 👨🏽‍💻
