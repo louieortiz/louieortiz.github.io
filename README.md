@@ -1,5 +1,3 @@
-# Personal Website
+# Welcome!
 
-This is my website, developed with support from the [Point](https://point-theme.netlify.app/) theme.
-
-:-)
+This is my personal website, developed with support from the [Point](https://point-theme.netlify.app/) Jekyll theme.
