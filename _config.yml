@@ -14,13 +14,13 @@ description: Undergraduate Student at UC Berkeley
 
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
-nav-links:
-  - name: linkedin
-    url: https://www.linkedin.com/in/louieortiz/
-    external: true
-  - name: projects
-    url: https://github.com/louieortiz/projects
-    external: true
+# nav-links:
+#   - name: linkedin
+#     url: https://www.linkedin.com/in/louieortiz/
+#     external: true
+#   - name: projects
+#     url: https://github.com/louieortiz/projects
+#     external: true
 
 
 # for the homepage image + big text next to it
