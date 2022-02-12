@@ -5,7 +5,7 @@ $accent-color: #f5bc62; // link color
 $font-stack: system-ui, Helvetica, Arial, sans-serif;
 $heading-font-stack: system-ui, Helvetica, Arial, sans-serif; // use this to set a different font for your headings if you want
 $code-font-stack: Inconsolata, monospace; // fonts for inline code and code blocks
-$container-max-width: 1000px;
+$container-max-width: 700px;
 
 // reset
 * {
@@ -20,7 +20,7 @@ body {
 }
 
 #container {
-  width: 90%;
+  width: 95%;
   max-width: $container-max-width;
   margin: 4rem auto;
 }
@@ -103,10 +103,10 @@ img {
 }
 
 .avatar {
-  width: 120px;
-  height: 150px;
-//   border-radius: 4rem;
-//   margin-right: 1.5rem;
+  width: 8rem;
+  height: 8rem;
+  border-radius: 4rem;
+  margin-right: 1.5rem;
 }
 
 // homepage greeting component
@@ -154,7 +154,7 @@ img {
 }
 
 code {
-  background: #cde9fa;
+  background: #ddd;
   padding: 3px 5px;
   border-radius: 2px;
   font-family: $code-font-stack;
