@@ -9,11 +9,18 @@
     </head>
     
     <body>
+	<div class="form-check form-switch">
+            <input type="checkbox" class="form-check-input" id="darkSwitch">
+            <label class="custom-control-label" for="darkSwitch">Dark Mode</label>
+          </div>
+          <script src="dark-mode-switch.min.js"></script>
+	    
         <div id="container">
             <h1 class="global-title">{{ site.title }}‍
 		    
 		</h1>
             {% if site.nav-links %}
+
             <nav>
                 <ul>
                     {% for link in site.nav-links %}
