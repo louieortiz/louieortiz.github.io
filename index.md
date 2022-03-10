@@ -16,13 +16,17 @@ Studying Data Science with a domain emphasis in Philosophy at UC Berkeley has al
 
 ## currently 💭
 
-I have fortified my passions in UC Berkeley’s Data Science community with a human-centered approach. I serve as a curriculum developer through the [Human Contexts and Ethics](https://data.berkeley.edu/hce) department, where I work with data science course staff to integrate educational material focused on ethics in a “datafied world.” I am also on the Undegraduate Advisory Board at the [D-Lab](https://dlab.berkeley.edu/), funded by the [NSF IUSE grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1915714&HistoricalAwards=false), actively connecting with campus organizations to provide knowledge of Data Science related resources. Recently, I joined the [Anti-Racism Student Committee](https://eecs.berkeley.edu/resources/students/bpe) in the College of Engineering to survey student concerns about the computer science department at Cal, in efforts to foster a more welcoming and equitable academic climate. In a non-technical capacity, I volunteer as an advising fellow through [Matriculate](https://www.matriculate.org/apply), a non-profit supporting high school seniors through their college application process.
+I have fortified my passions in UC Berkeley’s Data Science community with a human-centered approach. I serve as a curriculum developer through the [Human Contexts and Ethics](https://data.berkeley.edu/hce) department, where I work with data science course staff to integrate educational material focused on ethics in a “datafied world.” I am also on the Undegraduate Advisory Board at the [D-Lab](https://dlab.berkeley.edu/), funded by the [NSF IUSE grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1915714&HistoricalAwards=false), actively connecting with campus organizations to provide knowledge of Data Science related resources. Recently, I joined the [Anti-Racism Student Committee](https://eecs.berkeley.edu/resources/students/bpe) in the College of Engineering to survey student concerns about the computer science department at Cal, in efforts to foster a more welcoming and equitable academic climate. 
+
+In a different capacity, I volunteer as an advising fellow through [Matriculate](https://www.matriculate.org/apply), a non-profit supporting high school seniors through their college application process.
 
 ---
 
 ## technical work 📊
 
-My interdisciplinary background in Data Science has provided me with foundations in several cognate domains. I have taken coursework in computer science, statistics, and mathematics, complemented with the humanistic fields of philosophy, sociology, and psychology. I have excelled in technical projects in machine learning, data engineering, and statistical modeling, which can be viewed in my [project portfolio](https://github.com/louieortiz/projects).
+My interdisciplinary background in Data Science has provided me with foundations in several cognate domains. I have taken coursework in computer science, statistics, and mathematics, complemented with the humanistic fields of philosophy, sociology, and psychology. 
+
+I have excelled in technical projects in machine learning, data engineering, and statistical modeling, which can be viewed in my [project portfolio](https://github.com/louieortiz/projects).
 
 ---
 
