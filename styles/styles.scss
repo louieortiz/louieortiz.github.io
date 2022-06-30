@@ -18,6 +18,7 @@ $container-max-width: 700px;
 // structure
 body {
   font-family: $font-stack;
+  background-color: #fce5c7;
 }
 
 #container {
@@ -164,11 +165,11 @@ code {
 }
 
 footer {
-  background-color: none;
+  background-color: #fce5c7;
   color: #f0c081;
   text-align: center;
   width: 100%;
-  background-color: none;
+//   background-color: none;
   padding-bottom: 5vh;
 }
 
