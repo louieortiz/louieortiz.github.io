@@ -1,6 +1,6 @@
 ---
 ---
-Experienced in data analysis, instructional design, and statistical modeling.
+Recent Data Science graduate from UC Berkeley. Experienced in data analysis, instructional design, and statistical modeling.
 Passionate about technology ethics, educational pedagogy, and understanding how innovation can foster the growth of underserved communities.
 I am seeking full-time opportunities in industry that can bolster these intersecting curiosities.
 
