@@ -1,6 +1,5 @@
 ---
 ---
-Data scientist, curriculum developer, and researcher.
 Experienced in data analysis, instructional design, and statistical modeling.
 Passionate about technology ethics, educational pedagogy, and understanding how innovation can foster the growth of underserved communities.
 I am seeking full-time opportunities in industry that can bolster these intersecting curiosities.
@@ -8,7 +7,9 @@ I am seeking full-time opportunities in industry that can bolster these intersec
 ---
 ## about me 👨🏽‍💻
 
-I've always been fascinated by how the fundamental elements of our world connect. In particular, most of my wonders piqued from an introductory computer science course. The assignments gave precedence to debugging and data structures, yet the burning question lay unanswered in my mind: _What do these lines of code mean to the human experience?_ My personal microcosm always embraced technology, but I began to question how this abstract idea of the human mind impacted our relationship with the modern world. More specifically, how technological literacy and access contributes to the livelihood of marginalized populations.
+I've always been fascinated by how the fundamental elements of our world connect. In particular, most of my wonders piqued from an introductory computer science course. The assignments gave precedence to debugging and data structures, yet the burning question lay unanswered in my mind: _What do these lines of code mean to the human experience?_ 
+
+My personal microcosm always embraced technology, but I began to question how this abstract idea of the human mind impacted our relationship with the modern world. More specifically, how technological literacy and access contributes to the livelihood of marginalized populations.
 
 Studying Data Science with a domain emphasis in Philosophy at UC Berkeley has allowed me to articulate these multifaceted interests. Through my pursuits, I have grounded myself in understanding the power of pratical technology and it’s role in STEM education.
 
