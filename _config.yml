@@ -26,8 +26,7 @@ description: Undergraduate Student at UC Berkeley
 # for the homepage image + big text next to it
 greeting_image: /assets/photo.jpg
 # 100-200 characters recommended
-greeting_text: "welcome! i'm louie"
-greeting_text: "B.A. Data Science @ UC Berkeley"
+greeting_text: "welcome! i'm louie, recent uc berkeley data science graduate"
 
 
 # show blog post excerpts on blog page
